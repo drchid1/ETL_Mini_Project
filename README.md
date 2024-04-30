@@ -1,3 +1,3 @@
 # Project 2: ETL_Mini_Project
 
-This project has a focus on Extraction, Transformation and Loading (ETL) of data. Two Excel files [contacts.xlxs](Resorces
+This project focuses on data extraction, transformation, and loading (ETL). Two Excel files [contacts.xlsx](Resources/contacts.xlsx)
