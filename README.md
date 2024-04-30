@@ -9,7 +9,7 @@
 
 
 ## Introduction
-This project focuses on data extraction, transformation, and loading (ETL). Two Excel files, [contacts.xlsx](Resources/contacts.xlsx) and [crowdfunding.xlsx](Resources/crowdfunding.xlsx), were taken into a Pandas Dataframe and transformed to create the four CSV files. This, in turn, was used to develop the crowdfunding SQL database.
+This project focuses on data extraction, transformation, and loading (ETL). Two Excel files, [contacts.xlsx](Resources/contacts.xlsx) and [crowdfunding.xlsx](Resources/crowdfunding.xlsx), were taken into a Pandas Dataframe and transformed to create the four CSV files. This, in turn, was used to develop the crowdfunding SQL database. The [Resources](Resources) folder contains the main 
 
 ## Extraction and Transformation
 The extraction and transformation workings can be seen in the annotated [Jupyter Notebook](ETL_Mini_Project_ALee_AConlon_AMaryam_MVeerabahu_ZAkinwale.ipynb), which creates the four CSV files. Pandas module in Python code were used to extract the data from the Excel file and transformed to generate the following 4 CSV files:
